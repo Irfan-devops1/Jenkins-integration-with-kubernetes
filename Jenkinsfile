@@ -2,7 +2,7 @@ pipeline {
 
   environment {
     dockerimagename = "irfanahmadbhat/nodeapp"
-    dockerImage = ""
+    dockerImage = "irfanahmadbhat/nodeapp"
   }
 
   agent any
